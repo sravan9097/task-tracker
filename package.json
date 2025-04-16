@@ -1,0 +1,17 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "A simple task tracker web app",
+  "main": "js/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "lucide": "^0.488.0",
+    "uuid": "^9.0.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
